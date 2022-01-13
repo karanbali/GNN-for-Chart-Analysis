@@ -1,1 +1,1 @@
-# GNN-for-Chart-Analysis
+# GNN-for-Chart-Analysis- Read "Karan_Bali_EAS563_report_v2.pdf" for more information.- Implemented a practical application of Graph Neural Networks for Chart analysis.- The project aimed to solve a subset of Task-3 of the “ICPR Chart-Infographics 2020” competition by detecting “Tick-Labels” on the UB-PMC dataset.
